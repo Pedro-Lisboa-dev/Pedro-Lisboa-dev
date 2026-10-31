@@ -1,14 +1,14 @@
-## Pedro Lisboa Neto
+# Pedro Lisboa Neto
 
-**Progamming Student | Aspiring Game Developer**
+###Progamming Student | Aspiring Game Developer**
 Currently exploring programming, creative technology and game development. 
 Learning C and Python, while developing foundations in software engineering, world-building and storytelling.
 
-**Current Focus**
-° C programming 
-° Python
-° Software engineering fundamentals
-° Creative Game development
+##Current Focus
+- C programming
+- Python
+- Software engineering fundamentals
+- Creative Game development
 
 <!--
 **Pedro-Lisboa-dev/Pedro-Lisboa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
