@@ -1,10 +1,10 @@
 # Pedro Lisboa Neto
 
-###Progamming Student | Aspiring Game Developer**
+### Progamming Student | Aspiring Game Developer
 Currently exploring programming, creative technology and game development. 
 Learning C and Python, while developing foundations in software engineering, world-building and storytelling.
 
-##Current Focus
+## Current Focus
 - C programming
 - Python
 - Software engineering fundamentals
